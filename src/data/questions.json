@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "question": "Can you explain what artificial intelligence is and give an example of how it's used in everyday life?"
+  },
+  {
+    "id": 2,
+    "question": "What do you think are the main differences between renewable and non-renewable energy sources?"
+  },
+  {
+    "id": 3,
+    "question": "How does the internet work? Can you explain it in simple terms?"
+  },
+  {
+    "id": 4,
+    "question": "What is climate change and why is it important to address it?"
+  },
+  {
+    "id": 5,
+    "question": "Can you describe the importance of data privacy in the digital age?"
+  }
+]
